@@ -11,7 +11,9 @@ alunos = [
     {'nome': 'Anderson', 'nota': 'C'},
 ]
 
-grupos = groupby(alunos)
+alunos.sort
+
+""" grupos = groupby(alunos)
 
 for grupo in grupos:
-    print(grupo)
+    print(grupo) """
